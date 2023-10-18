@@ -1,0 +1,20 @@
+.Topo, .Rodape{
+  background-color: black;
+}
+
+.titulo{
+  color: white;
+  margin-left: 1%;
+}
+
+.logo{
+  width: 10%;
+  height: 5%;
+  margin-top: 1%;
+}
+
+ .p1, .p2{
+  text-align: left;
+  margin-left: 2%;
+  color: white;
+}

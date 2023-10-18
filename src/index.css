@@ -1,0 +1,9 @@
+* { 
+  margin: 0; 
+  padding: 0; 
+  text-align: center;
+ } 
+
+ #root{
+  background-color: #5ce1e6;
+ }
